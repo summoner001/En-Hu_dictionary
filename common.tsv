@@ -7,11 +7,14 @@
 #   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
 #   Lines starting with # and blank lines are ignored. A missing entry shows in English.
 #
+# Hungarian style: use formal address in user-facing text and the single-character ellipsis “…”;
+# follow glosar.csv and glosar2.csv for terminology, with the Photoshop glossary as a terminology
+# reference only. Adapt phrasing to each Crafting App string rather than copying another product's UI.
 # Clean room: every entry was written from the plain meaning of the English text in ordinary
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 
-	% of all commits	Az összes commit %-a
+	% of all commits	Véglegesítések aránya (%)
 	(Custom)	(Egyéni)
 	(none)	(nincs)
 	1 file	1 fájl
@@ -87,8 +90,8 @@ theme	Appearance	Kinézet
 	Artboard	Rajztábla
 	Artboards	Rajztáblák
 	ArtCraft	ArtCraft
-	ArtCraft Website	Az ArtCraft webhelye
-	ArtCraft website	Az ArtCraft webhelye
+	ArtCraft Website	Az ArtCraft weboldala
+	ArtCraft website	Az ArtCraft weboldala
 	Artistic	Művészi
 	Ascending	Növekvő
 	Aspect Ratio	Méretarány
@@ -234,7 +237,7 @@ theme	Appearance	Kinézet
 	Commands:	Parancsok:
 	Comment	Megjegyzés
 	Comments	Megjegyzések
-	Commits	Commitok
+	Commits	Véglegesítések
 	Community	Közösség
 	Company	Cég
 	Compare	Összehasonlítás
@@ -274,7 +277,7 @@ theme	Appearance	Kinézet
 	Ctrl	Ctrl
 	Current	Jelenlegi
 	Current page	Aktuális oldal
-	Current Time	Aktuális idő
+	Current Time	Jelenlegi idő
 	Curvature	Görbület
 	Curve	Görbe
 	Curves	Görbék
@@ -382,7 +385,7 @@ theme	Appearance	Kinézet
 	Editing	Szerkesztés
 	Edit…	Szerkesztés…
 	Effect	Effektus
-	Effects	Effektusok
+	Effects	Hatások
 	Elevation	Magassági szög
 	Eliminate	Eltávolítás
 	Ellipse	Ellipszis
@@ -452,7 +455,7 @@ theme	Appearance	Kinézet
 	Fine Dots	Finom pontok
 	Finish	Befejezés
 	First	Első
-	First commit	Első commit
+	First commit	Első véglegesítés
 	Fit	Illesztés
 	Fit in View	Igazítás a nézethez
 	Fixed	Rögzített
@@ -596,9 +599,9 @@ theme	Appearance	Kinézet
 	Japanese	Japán
 	Join	Összekapcsolás
 	Join our Discord	Csatlakozz a Discordunkhoz
-	Join the ArtCraft Discord	Csatlakozás az ArtCraft Discordhoz
-	Join the ArtCraft Discord…	Csatlakozás az ArtCraft Discordhoz…
-	Join us on Discord	Csatlakozz hozzánk a Discordon
+	Join the ArtCraft Discord	Csatlakozás az ArtCraft Discord-szerveréhez
+	Join the ArtCraft Discord…	Csatlakozás az ArtCraft Discord-szerveréhez…
+	Join us on Discord	Beszélgessen velünk a Discordon
 	just now	épp most
 	Justification	Sorkizárás
 	Justify	Sorkizárás
@@ -621,7 +624,7 @@ theme	Appearance	Kinézet
 	Lasso	Lasszó
 	Lasso Tool	Lasszó
 	Last	Utolsó
-	Last commit	Utolsó commit
+	Last commit	Utolsó véglegesítés
 	Later	Később
 	Layer	Réteg
 	Layers	Rétegek
@@ -845,7 +848,7 @@ theme	Appearance	Kinézet
 	Paths	Útvonalak
 	Pattern	Mintázat
 	Pattern Type	Mintatípus
-	Pause	Szünet
+	Pause	Szüneteltetés
 	Pen	Toll
 	Pen Tool	Toll
 	Pencil	Ceruza
@@ -892,7 +895,7 @@ theme	Appearance	Kinézet
 	Preset:	Előbeállítás:
 	Presets	Előbeállítások
 	Presets:	Előbeállítások:
-	Press keys…	Nyomd le a billentyűket…
+	Press keys…	Nyomja le a billentyűket…
 	Pressure	Nyomás
 	Preview	Előnézet
 	Previous	Előző
@@ -963,14 +966,14 @@ theme	Appearance	Kinézet
 	Report	Jelentés
 	Report an Issue…	Hiba bejelentése…
 	Reselect	Újrakijelölés
-	Reset	Visszaállít
+	Reset	Visszaállítás
 	Reset Preferences	Beállítások visszaállítása
 	Reset…	Visszaállítás…
 	Resize panel window	Panelablak átméretezése
 	Resize panels	Panelek átméretezése
 	Resolution	Felbontás
 	Resolution:	Felbontás:
-	Restore	Előző méret
+	Restore	Helyreállítás
 	Result	Eredmény
 	Resume	Folytatás
 	Reveal in Finder	Megjelenítés a Finderben
